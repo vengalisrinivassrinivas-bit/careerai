@@ -1,0 +1,56 @@
+Category,Project_Name,Description,Difficulty
+Data Science,Customer Churn Prediction,"Predict client churn risk using Logistic Regression, Pandas, and Scikit-Learn.",Medium
+Data Science,Movie Recommendation Engine,Collaborative and content-based recommendation system using Cosine Similarity.,Medium
+Data Science,Heart Disease Classification,Classify cardiac health indicators utilizing Random Forest classifier.,Hard
+HR,Automated Employee Onboarding Portal,System to streamline documents and onboarding flows for HR.,Medium
+HR,Performance Appraisal Dashboard,"Interactive dashboard to record, visualize, and track employee performance KPIs.",Easy
+HR,Candidate ATS Pipeline tracker,Tool to manage recruitment stages and filter resumes by keywords.,Medium
+Advocate,Legal Case Management System,"Tracks court dates, client briefs, and case documents.",Medium
+Advocate,Contract Lifecycle Analyzer,Automated document parser to search and flag specific clauses in legal agreements.,Hard
+Arts,Digital Portfolio Web Application,"Highly responsive, visual portfolio builder to show art work.",Easy
+Arts,Interactive Typography Guide,Web educational tool demonstrating historical typography styles.,Medium
+Web Designing,E-commerce Front-end Dashboard,A fully responsive glassmorphic checkout UI and product grid.,Medium
+Web Designing,Personal Branding Portfolio Portal,"Premium, interactive dark-mode portfolio utilizing CSS animations.",Easy
+Mechanical Engineer,CAD Heat Sink Simulator,Simulate heat dissipation of electronic components in Autodesk/SolidWorks.,Hard
+Mechanical Engineer,3D Printing Tolerance Calculator,App to calculate mechanical fit tolerances based on print temperature.,Medium
+Sales,Sales CRM & Pipeline Tracker,"Visual dashboard showing lead scoring, conversion funnels, and CRM records.",Medium
+Sales,Automated Email Follow-up Bot,Sends sequential emails based on lead actions.,Easy
+Health and fitness,Macro Nutrition Planner,"Calculates body fat, BMR, and constructs diet sheets.",Easy
+Health and fitness,Gym Workout Tracking App,"Saves workout templates, counts sets/reps, and shows progress graphs.",Medium
+Civil Engineer,Beam Deflection Calculator,Calculates structural load distribution on concrete beams.,Medium
+Civil Engineer,Construction Project Estimator,App to estimate bill of materials (BOM) based on blueprints.,Easy
+Java Developer,Secure Banking REST API,Spring Boot microservice with JWT authentication and MySQL backend.,Hard
+Java Developer,Task Management Microservice,Containerized Java Spring application with Docker and Postgres.,Medium
+Java Developer,Inventory Management System,Java Swing desktop application using JDBC to connect to database.,Easy
+Business Analyst,Market Trend Dashboard,Tableau/Power BI mockup analyzing customer retention patterns.,Easy
+Business Analyst,Agile Velocity Calculator,Saves sprint metrics and predicts project delivery timelines.,Medium
+SAP Developer,ABAP Report Generator,Custom SAP report extracting billing records with specific transaction codes.,Medium
+SAP Developer,BAPI Purchase Order Creator,Module integrating external purchases with SAP core ERP.,Hard
+Automation Testing,E-Commerce E2E Selenium Suite,Automation testing suite verifying search-to-checkout flows.,Medium
+Automation Testing,REST API Automated Test Suite,Postman / RestAssured test pipeline checking status codes and payloads.,Easy
+Electrical Engineering,Solar Power Grid Optimizer,MATLAB simulation optimizing solar cell angle and storage levels.,Hard
+Electrical Engineering,Arduino Smart Home System,Microcontroller-based automation controlling lights and temp sensors.,Medium
+Operations Manager,Supply Chain Inventory Tracker,Warehouse dashboard displaying safety stock thresholds and EOQ.,Medium
+Operations Manager,Vendor Scorecard Evaluator,"Records vendor delivery times, quality rates, and calculates rating.",Easy
+Python Developer,Real-time Weather Dashboard,FastAPI app querying external APIs and serving a frontend with visual charts.,Medium
+Python Developer,Asynchronous Web Scraper,"Scrapes e-commerce sites using HTTPX and BeautifulSoup, saving to PostgreSQL.",Hard
+Python Developer,CLI Task Manager,Simple CRUD application saving lists to JSON files using argparse.,Easy
+DevOps Engineer,Multi-stage CI/CD Jenkins Pipeline,Deploys Python application to AWS ECS with unit tests and lint checks.,Hard
+DevOps Engineer,Terraform Infrastructure as Code,"Provisions VPC, Subnets, and EC2 instances on AWS cloud dynamically.",Medium
+DevOps Engineer,Kubernetes Local Cluster Setup,Configures Minikube clusters with Ingress Controller and Persistent Volumes.,Hard
+Network Security Engineer,Intrusion Detection System (IDS),Python-based network packet sniffer detecting SQL injection attempts.,Hard
+Network Security Engineer,Automated Network Port Scanner,Scans local ports using Nmap wrapper and generates HTML report.,Medium
+PMO,Sprint Resource Planner,Calculates team bandwidth and capacity during sprint scheduling.,Easy
+PMO,Project Risk Assessment Matrix,Maps likelihood vs impact of project risks with mitigation logs.,Medium
+Database,Database Schema Migrator Tool,Custom SQL Server/MySQL schema comparison and migration script.,Hard
+Database,Database Slow Query Analyzer,"Extracts, parses, and formats query execution logs for indexing.",Medium
+Hadoop,Log File Sentiment Spark Job,HDFS batch job calculating message sentiment from cluster logs.,Hard
+Hadoop,MapReduce Word Frequency Counter,Classic Big Data batch processor counting word frequencies on HDFS.,Medium
+ETL Developer,CSV to Redshift Pipeline,"AWS Glue job extracting files, transformations, loading to warehouse.",Hard
+ETL Developer,API Data Integration Script,Extracts JSON responses daily and saves as structured parquet files.,Medium
+DotNet Developer,ASP.NET Core Web API,"Web service with JWT auth, Entity Framework Core, and SQL Server.",Medium
+DotNet Developer,Real-time Chat App using SignalR,Websocket communication service built with .NET Core and HTML.,Hard
+Blockchain,ERC20 Token Smart Contract,Solidity contract deployed on Ethereum local network with unit tests.,Medium
+Blockchain,Decentralized Voting DApp,React frontend talking to Solidity smart contracts via Web3.js.,Hard
+Testing,Manual Regression Test Library,Structured spreadsheet-to-web test plan tracking cases and results.,Easy
+Testing,API Payload Schema Validator,Python script validating JSON response schema matching definition.,Medium

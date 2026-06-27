@@ -1,0 +1,201 @@
+Category,Question_Type,Difficulty,Question
+Data Science,Technical,Easy,What is the difference between supervised and unsupervised learning?
+Data Science,Technical,Medium,What is overfitting and how can you prevent it?
+Data Science,Technical,Hard,Explain how the Transformer architecture and Self-Attention mechanism work.
+Data Science,Coding,Easy,Write a Python function to reverse a string without using built-in reverse functions.
+Data Science,Coding,Medium,Write a function to find the duplicate elements in an array in O(N) time.
+Data Science,Coding,Hard,Write code to implement a K-Means clustering algorithm from scratch in Python.
+Data Science,HR,Easy,Why did you choose Data Science as a career choice?
+Data Science,HR,Medium,Describe a time when you had to explain a complex ML model to a non-technical stakeholder.
+HR,Technical,Easy,What is the primary objective of your role in this domain?
+HR,Technical,Medium,What tools and frameworks do you use daily in this domain?
+HR,Technical,Hard,What are the common bottleneck issues in this field and how do you solve them?
+HR,Coding,Easy,Write a simple program/script to parse a config file in this domain.
+HR,Coding,Medium,Write an algorithm to sort elements according to domain metadata metrics.
+HR,Coding,Hard,Write a secure token validation script to authorize API clients in this domain.
+HR,HR,Easy,Tell me about yourself and your background in this domain.
+HR,HR,Medium,Describe a challenging project you did in this category and how you resolved the hurdles.
+Advocate,Technical,Easy,What is the primary objective of your role in this domain?
+Advocate,Technical,Medium,What tools and frameworks do you use daily in this domain?
+Advocate,Technical,Hard,What are the common bottleneck issues in this field and how do you solve them?
+Advocate,Coding,Easy,Write a simple program/script to parse a config file in this domain.
+Advocate,Coding,Medium,Write an algorithm to sort elements according to domain metadata metrics.
+Advocate,Coding,Hard,Write a secure token validation script to authorize API clients in this domain.
+Advocate,HR,Easy,Tell me about yourself and your background in this domain.
+Advocate,HR,Medium,Describe a challenging project you did in this category and how you resolved the hurdles.
+Arts,Technical,Easy,What is the primary objective of your role in this domain?
+Arts,Technical,Medium,What tools and frameworks do you use daily in this domain?
+Arts,Technical,Hard,What are the common bottleneck issues in this field and how do you solve them?
+Arts,Coding,Easy,Write a simple program/script to parse a config file in this domain.
+Arts,Coding,Medium,Write an algorithm to sort elements according to domain metadata metrics.
+Arts,Coding,Hard,Write a secure token validation script to authorize API clients in this domain.
+Arts,HR,Easy,Tell me about yourself and your background in this domain.
+Arts,HR,Medium,Describe a challenging project you did in this category and how you resolved the hurdles.
+Web Designing,Technical,Easy,What is the primary objective of your role in this domain?
+Web Designing,Technical,Medium,What tools and frameworks do you use daily in this domain?
+Web Designing,Technical,Hard,What are the common bottleneck issues in this field and how do you solve them?
+Web Designing,Coding,Easy,Write a simple program/script to parse a config file in this domain.
+Web Designing,Coding,Medium,Write an algorithm to sort elements according to domain metadata metrics.
+Web Designing,Coding,Hard,Write a secure token validation script to authorize API clients in this domain.
+Web Designing,HR,Easy,Tell me about yourself and your background in this domain.
+Web Designing,HR,Medium,Describe a challenging project you did in this category and how you resolved the hurdles.
+Mechanical Engineer,Technical,Easy,What is the primary objective of your role in this domain?
+Mechanical Engineer,Technical,Medium,What tools and frameworks do you use daily in this domain?
+Mechanical Engineer,Technical,Hard,What are the common bottleneck issues in this field and how do you solve them?
+Mechanical Engineer,Coding,Easy,Write a simple program/script to parse a config file in this domain.
+Mechanical Engineer,Coding,Medium,Write an algorithm to sort elements according to domain metadata metrics.
+Mechanical Engineer,Coding,Hard,Write a secure token validation script to authorize API clients in this domain.
+Mechanical Engineer,HR,Easy,Tell me about yourself and your background in this domain.
+Mechanical Engineer,HR,Medium,Describe a challenging project you did in this category and how you resolved the hurdles.
+Sales,Technical,Easy,What is the primary objective of your role in this domain?
+Sales,Technical,Medium,What tools and frameworks do you use daily in this domain?
+Sales,Technical,Hard,What are the common bottleneck issues in this field and how do you solve them?
+Sales,Coding,Easy,Write a simple program/script to parse a config file in this domain.
+Sales,Coding,Medium,Write an algorithm to sort elements according to domain metadata metrics.
+Sales,Coding,Hard,Write a secure token validation script to authorize API clients in this domain.
+Sales,HR,Easy,Tell me about yourself and your background in this domain.
+Sales,HR,Medium,Describe a challenging project you did in this category and how you resolved the hurdles.
+Health and fitness,Technical,Easy,What is the primary objective of your role in this domain?
+Health and fitness,Technical,Medium,What tools and frameworks do you use daily in this domain?
+Health and fitness,Technical,Hard,What are the common bottleneck issues in this field and how do you solve them?
+Health and fitness,Coding,Easy,Write a simple program/script to parse a config file in this domain.
+Health and fitness,Coding,Medium,Write an algorithm to sort elements according to domain metadata metrics.
+Health and fitness,Coding,Hard,Write a secure token validation script to authorize API clients in this domain.
+Health and fitness,HR,Easy,Tell me about yourself and your background in this domain.
+Health and fitness,HR,Medium,Describe a challenging project you did in this category and how you resolved the hurdles.
+Civil Engineer,Technical,Easy,What is the primary objective of your role in this domain?
+Civil Engineer,Technical,Medium,What tools and frameworks do you use daily in this domain?
+Civil Engineer,Technical,Hard,What are the common bottleneck issues in this field and how do you solve them?
+Civil Engineer,Coding,Easy,Write a simple program/script to parse a config file in this domain.
+Civil Engineer,Coding,Medium,Write an algorithm to sort elements according to domain metadata metrics.
+Civil Engineer,Coding,Hard,Write a secure token validation script to authorize API clients in this domain.
+Civil Engineer,HR,Easy,Tell me about yourself and your background in this domain.
+Civil Engineer,HR,Medium,Describe a challenging project you did in this category and how you resolved the hurdles.
+Java Developer,Technical,Easy,What are the OOP principles in Java?
+Java Developer,Technical,Medium,Explain Java Garbage Collection and memory management (Heap vs Stack).
+Java Developer,Technical,Hard,What is the difference between Synchronized blocks and Lock API in multithreading?
+Java Developer,Coding,Easy,Write a Java program to reverse a linked list.
+Java Developer,Coding,Medium,Write a Java program to find the second largest element in an array using Streams.
+Java Developer,Coding,Hard,Implement a thread-safe Singleton class in Java without using synchronized keyword on method.
+Java Developer,HR,Easy,"What Java frameworks (Spring Boot, Hibernate) are you most comfortable with?"
+Java Developer,HR,Medium,How do you handle disagreement with a tech lead on application architecture?
+Business Analyst,Technical,Easy,What is the primary objective of your role in this domain?
+Business Analyst,Technical,Medium,What tools and frameworks do you use daily in this domain?
+Business Analyst,Technical,Hard,What are the common bottleneck issues in this field and how do you solve them?
+Business Analyst,Coding,Easy,Write a simple program/script to parse a config file in this domain.
+Business Analyst,Coding,Medium,Write an algorithm to sort elements according to domain metadata metrics.
+Business Analyst,Coding,Hard,Write a secure token validation script to authorize API clients in this domain.
+Business Analyst,HR,Easy,Tell me about yourself and your background in this domain.
+Business Analyst,HR,Medium,Describe a challenging project you did in this category and how you resolved the hurdles.
+SAP Developer,Technical,Easy,What is the primary objective of your role in this domain?
+SAP Developer,Technical,Medium,What tools and frameworks do you use daily in this domain?
+SAP Developer,Technical,Hard,What are the common bottleneck issues in this field and how do you solve them?
+SAP Developer,Coding,Easy,Write a simple program/script to parse a config file in this domain.
+SAP Developer,Coding,Medium,Write an algorithm to sort elements according to domain metadata metrics.
+SAP Developer,Coding,Hard,Write a secure token validation script to authorize API clients in this domain.
+SAP Developer,HR,Easy,Tell me about yourself and your background in this domain.
+SAP Developer,HR,Medium,Describe a challenging project you did in this category and how you resolved the hurdles.
+Automation Testing,Technical,Easy,What is the primary objective of your role in this domain?
+Automation Testing,Technical,Medium,What tools and frameworks do you use daily in this domain?
+Automation Testing,Technical,Hard,What are the common bottleneck issues in this field and how do you solve them?
+Automation Testing,Coding,Easy,Write a simple program/script to parse a config file in this domain.
+Automation Testing,Coding,Medium,Write an algorithm to sort elements according to domain metadata metrics.
+Automation Testing,Coding,Hard,Write a secure token validation script to authorize API clients in this domain.
+Automation Testing,HR,Easy,Tell me about yourself and your background in this domain.
+Automation Testing,HR,Medium,Describe a challenging project you did in this category and how you resolved the hurdles.
+Electrical Engineering,Technical,Easy,What is the primary objective of your role in this domain?
+Electrical Engineering,Technical,Medium,What tools and frameworks do you use daily in this domain?
+Electrical Engineering,Technical,Hard,What are the common bottleneck issues in this field and how do you solve them?
+Electrical Engineering,Coding,Easy,Write a simple program/script to parse a config file in this domain.
+Electrical Engineering,Coding,Medium,Write an algorithm to sort elements according to domain metadata metrics.
+Electrical Engineering,Coding,Hard,Write a secure token validation script to authorize API clients in this domain.
+Electrical Engineering,HR,Easy,Tell me about yourself and your background in this domain.
+Electrical Engineering,HR,Medium,Describe a challenging project you did in this category and how you resolved the hurdles.
+Operations Manager,Technical,Easy,What is the primary objective of your role in this domain?
+Operations Manager,Technical,Medium,What tools and frameworks do you use daily in this domain?
+Operations Manager,Technical,Hard,What are the common bottleneck issues in this field and how do you solve them?
+Operations Manager,Coding,Easy,Write a simple program/script to parse a config file in this domain.
+Operations Manager,Coding,Medium,Write an algorithm to sort elements according to domain metadata metrics.
+Operations Manager,Coding,Hard,Write a secure token validation script to authorize API clients in this domain.
+Operations Manager,HR,Easy,Tell me about yourself and your background in this domain.
+Operations Manager,HR,Medium,Describe a challenging project you did in this category and how you resolved the hurdles.
+Python Developer,Technical,Easy,What are PEP 8 guidelines and why are they important?
+Python Developer,Technical,Medium,What is the difference between lists and tuples in Python? Explain memory layout.
+Python Developer,Technical,Hard,How does Python's Global Interpreter Lock (GIL) work and how do you bypass it?
+Python Developer,Coding,Easy,Write a Python list comprehension that filters even numbers from a list.
+Python Developer,Coding,Medium,Implement a Python decorator that logs the execution time of any function.
+Python Developer,Coding,Hard,"Write a custom generator to yield prime numbers infinitely, optimized using Sieve of Eratosthenes."
+Python Developer,HR,Easy,What interests you about Python web development or automation?
+Python Developer,HR,Medium,How do you keep yourself updated with the latest Python features and pep guidelines?
+DevOps Engineer,Technical,Easy,What is CI/CD and why is it important in software development?
+DevOps Engineer,Technical,Medium,Explain the difference between virtual machines and Docker containers.
+DevOps Engineer,Technical,Hard,How does Kubernetes handle self-healing of containers? Explain pod lifecycle.
+DevOps Engineer,Coding,Easy,Write a Bash script to backup a folder and email a status report if it fails.
+DevOps Engineer,Coding,Medium,Write a Python script to monitor CPU utilization and raise an alert if it exceeds 90%.
+DevOps Engineer,Coding,Hard,"Write a complete declarative Jenkins pipeline that builds, tests, and deploys a Docker image."
+DevOps Engineer,HR,Easy,What challenges do you enjoy solving in automated infrastructure management?
+DevOps Engineer,HR,Medium,How do you manage production downtime during a release deployment failure?
+Network Security Engineer,Technical,Easy,What is the difference between HTTP and HTTPS?
+Network Security Engineer,Technical,Medium,Explain how a 3-way TCP handshake works during a connection request.
+Network Security Engineer,Technical,Hard,"How does a Man-in-the-Middle (MITM) attack intercept SSL traffic, and how does HSTS mitigate it?"
+Network Security Engineer,Coding,Easy,Write a Python script using socket to check if port 80 is open on a target host.
+Network Security Engineer,Coding,Medium,Write a regular expression to validate an IPv4 address string.
+Network Security Engineer,Coding,Hard,Write a Python packet sniffer using scapy to count incoming SYN packets to detect scan attacks.
+Network Security Engineer,HR,Easy,Why are you interested in cyber and network security?
+Network Security Engineer,HR,Medium,How do you balance user experience/speed with strict network security policies?
+PMO,Technical,Easy,What is the primary objective of your role in this domain?
+PMO,Technical,Medium,What tools and frameworks do you use daily in this domain?
+PMO,Technical,Hard,What are the common bottleneck issues in this field and how do you solve them?
+PMO,Coding,Easy,Write a simple program/script to parse a config file in this domain.
+PMO,Coding,Medium,Write an algorithm to sort elements according to domain metadata metrics.
+PMO,Coding,Hard,Write a secure token validation script to authorize API clients in this domain.
+PMO,HR,Easy,Tell me about yourself and your background in this domain.
+PMO,HR,Medium,Describe a challenging project you did in this category and how you resolved the hurdles.
+Database,Technical,Easy,What is the primary objective of your role in this domain?
+Database,Technical,Medium,What tools and frameworks do you use daily in this domain?
+Database,Technical,Hard,What are the common bottleneck issues in this field and how do you solve them?
+Database,Coding,Easy,Write a simple program/script to parse a config file in this domain.
+Database,Coding,Medium,Write an algorithm to sort elements according to domain metadata metrics.
+Database,Coding,Hard,Write a secure token validation script to authorize API clients in this domain.
+Database,HR,Easy,Tell me about yourself and your background in this domain.
+Database,HR,Medium,Describe a challenging project you did in this category and how you resolved the hurdles.
+Hadoop,Technical,Easy,What is the primary objective of your role in this domain?
+Hadoop,Technical,Medium,What tools and frameworks do you use daily in this domain?
+Hadoop,Technical,Hard,What are the common bottleneck issues in this field and how do you solve them?
+Hadoop,Coding,Easy,Write a simple program/script to parse a config file in this domain.
+Hadoop,Coding,Medium,Write an algorithm to sort elements according to domain metadata metrics.
+Hadoop,Coding,Hard,Write a secure token validation script to authorize API clients in this domain.
+Hadoop,HR,Easy,Tell me about yourself and your background in this domain.
+Hadoop,HR,Medium,Describe a challenging project you did in this category and how you resolved the hurdles.
+ETL Developer,Technical,Easy,What is the primary objective of your role in this domain?
+ETL Developer,Technical,Medium,What tools and frameworks do you use daily in this domain?
+ETL Developer,Technical,Hard,What are the common bottleneck issues in this field and how do you solve them?
+ETL Developer,Coding,Easy,Write a simple program/script to parse a config file in this domain.
+ETL Developer,Coding,Medium,Write an algorithm to sort elements according to domain metadata metrics.
+ETL Developer,Coding,Hard,Write a secure token validation script to authorize API clients in this domain.
+ETL Developer,HR,Easy,Tell me about yourself and your background in this domain.
+ETL Developer,HR,Medium,Describe a challenging project you did in this category and how you resolved the hurdles.
+DotNet Developer,Technical,Easy,What is the primary objective of your role in this domain?
+DotNet Developer,Technical,Medium,What tools and frameworks do you use daily in this domain?
+DotNet Developer,Technical,Hard,What are the common bottleneck issues in this field and how do you solve them?
+DotNet Developer,Coding,Easy,Write a simple program/script to parse a config file in this domain.
+DotNet Developer,Coding,Medium,Write an algorithm to sort elements according to domain metadata metrics.
+DotNet Developer,Coding,Hard,Write a secure token validation script to authorize API clients in this domain.
+DotNet Developer,HR,Easy,Tell me about yourself and your background in this domain.
+DotNet Developer,HR,Medium,Describe a challenging project you did in this category and how you resolved the hurdles.
+Blockchain,Technical,Easy,What is the primary objective of your role in this domain?
+Blockchain,Technical,Medium,What tools and frameworks do you use daily in this domain?
+Blockchain,Technical,Hard,What are the common bottleneck issues in this field and how do you solve them?
+Blockchain,Coding,Easy,Write a simple program/script to parse a config file in this domain.
+Blockchain,Coding,Medium,Write an algorithm to sort elements according to domain metadata metrics.
+Blockchain,Coding,Hard,Write a secure token validation script to authorize API clients in this domain.
+Blockchain,HR,Easy,Tell me about yourself and your background in this domain.
+Blockchain,HR,Medium,Describe a challenging project you did in this category and how you resolved the hurdles.
+Testing,Technical,Easy,What is the primary objective of your role in this domain?
+Testing,Technical,Medium,What tools and frameworks do you use daily in this domain?
+Testing,Technical,Hard,What are the common bottleneck issues in this field and how do you solve them?
+Testing,Coding,Easy,Write a simple program/script to parse a config file in this domain.
+Testing,Coding,Medium,Write an algorithm to sort elements according to domain metadata metrics.
+Testing,Coding,Hard,Write a secure token validation script to authorize API clients in this domain.
+Testing,HR,Easy,Tell me about yourself and your background in this domain.
+Testing,HR,Medium,Describe a challenging project you did in this category and how you resolved the hurdles.
